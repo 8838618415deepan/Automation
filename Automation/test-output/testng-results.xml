@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[login]]>
+    </line>
+    <line>
+      <![CDATA[creatercustomer]]>
+    </line>
+    <line>
+      <![CDATA[logout]]>
+    </line>
+    <line>
+      <![CDATA[login]]>
+    </line>
+    <line>
+      <![CDATA[modiefycustomer]]>
+    </line>
+    <line>
+      <![CDATA[logout]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="132" started-at="2023-03-24T10:01:57 IST" finished-at="2023-03-24T10:01:58 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="132" started-at="2023-03-24T10:01:57 IST" finished-at="2023-03-24T10:01:58 IST">
+      <class name="com.actitime.testscript.AnnotationExample">
+        <test-method status="PASS" signature="login()[pri:0, instance:com.actitime.testscript.AnnotationExample@4b553d26]" name="login" is-config="true" duration-ms="8" started-at="2023-03-24T10:01:58 IST" finished-at="2023-03-24T10:01:58 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="createcustomer()[pri:0, instance:com.actitime.testscript.AnnotationExample@4b553d26]" name="createcustomer" duration-ms="10" started-at="2023-03-24T10:01:58 IST" finished-at="2023-03-24T10:01:58 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[creatercustomer]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createcustomer -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.actitime.testscript.AnnotationExample@4b553d26]" name="logout" is-config="true" duration-ms="3" started-at="2023-03-24T10:01:58 IST" finished-at="2023-03-24T10:01:58 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.actitime.testscript.AnnotationExample@4b553d26]" name="login" is-config="true" duration-ms="7" started-at="2023-03-24T10:01:58 IST" finished-at="2023-03-24T10:01:58 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="modiefycustomer()[pri:0, instance:com.actitime.testscript.AnnotationExample@4b553d26]" name="modiefycustomer" duration-ms="3" started-at="2023-03-24T10:01:58 IST" finished-at="2023-03-24T10:01:58 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[modiefycustomer]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- modiefycustomer -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.actitime.testscript.AnnotationExample@4b553d26]" name="logout" is-config="true" duration-ms="10" started-at="2023-03-24T10:01:58 IST" finished-at="2023-03-24T10:01:58 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- com.actitime.testscript.AnnotationExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
